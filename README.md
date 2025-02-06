@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <div align="center">
   <img height="200" src="https://i.pinimg.com/originals/ad/ad/79/adad79ab8693e3f4d5866243ff3ef4f4.gif"  />
@@ -22,5 +22,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
 </div>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31rvtvfgwhdgrxmx7zfsckrcpa7i&unique={true|1|on|yes})
 
 ###
